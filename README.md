@@ -42,5 +42,4 @@
 
 ### Screenshots
 
-![](img/cli1.mov)
 ![](img/cli.gif)
