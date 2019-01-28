@@ -7,7 +7,6 @@
 -   JavaScript
 -   Babel
 -   Tests using Mocha.js and Chai.js
--   Responsive Design
 
 ---
 
@@ -43,4 +42,5 @@
 
 ### Screenshots
 
+![](img/cli1.mov)
 ![](img/cli.gif)
